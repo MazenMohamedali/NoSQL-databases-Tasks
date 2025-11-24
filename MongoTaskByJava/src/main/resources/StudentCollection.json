@@ -1,0 +1,20 @@
+[
+    {
+        "_id": 1,
+        "name": "mazen",
+        "department": "SWE",
+        "GPA": 4
+    },
+    {
+        "_id": 2,
+        "name": "mohamed",
+        "department": "CS",
+        "GPA": 3.9
+    },
+    {
+        "_id": 3,
+        "name": "Ali",
+        "department": "AI",
+        "GPA": 3.6
+    }
+]

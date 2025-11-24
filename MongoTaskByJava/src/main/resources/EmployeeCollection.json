@@ -1,0 +1,17 @@
+[
+    {
+        "_id": 1,
+        "name": "mazen",
+        "job": "sofware Engineer"
+    },
+    {
+        "_id": 2,
+        "name": "mohamed",
+        "job": "data Engineer"
+    },
+    {
+        "_id": 3,
+        "name": "Ali",
+        "job": "AI Engineer"
+    }
+]
